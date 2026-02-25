@@ -1,7 +1,9 @@
-# financial-analyzer-debug
+# Financial Document Analyzer (Fixed & Improved Version)
 
-## 📝 Overview
+## Overview
+A comprehensive financial document analysis system that processes corporate reports, financial statements, and investment documents using AI-powered analysis agents.
 
+## Getting Started
 This project is a sophisticated **Financial Document Analyzer** built with **CrewAI**, designed to process and interpret financial reports. It leverages a multi-agent system to simulate a team of financial experts, including an analyst, a verifier, a risk assessor, and an investment advisor. The application is served through a **FastAPI** backend, allowing users to upload financial documents (e.g., quarterly reports) and receive a comprehensive analysis and investment recommendation.
 
 This repository represents a significantly debugged and refactored version of the original codebase, featuring fixes for critical dependency conflicts, professionally rewritten AI prompts for high-quality analysis, and a stable, modern framework.
